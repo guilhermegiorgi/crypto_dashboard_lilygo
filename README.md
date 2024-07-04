@@ -41,13 +41,13 @@ This project implements a cryptocurrency monitoring system using Arduino, TFT di
 
 #### Configuração de Hardware/Hardware Setup
 
-Conecte o display TFT e verifique a fiação correta com a placa Arduino.
-Connect the TFT display and ensure proper wiring with the Arduino board.
+- *Conecte o display TFT e verifique a fiação correta com a placa Arduino.*
+- Connect the TFT display and ensure proper wiring with the Arduino board.
 
 #### Dependências/Dependencies
 
-*Instale as bibliotecas necessárias usando o Gerenciador de Bibliotecas do Arduino:*
-Install necessary libraries using Arduino Library Manager:
+- *Instale as bibliotecas necessárias usando o Gerenciador de Bibliotecas do Arduino:*
+- Install necessary libraries using Arduino Library Manager:
 
 - TFT_eSPI
 - Arduino_JSON
@@ -62,32 +62,32 @@ Install necessary libraries using Arduino Library Manager:
 
 #### Upload do Código/Upload Code
 
-*Carregue o sketch para sua placa Arduino usando o IDE do Arduino ou software compatível.*
-Upload the sketch to your Arduino board using the Arduino IDE or compatible software.
+- *Carregue o sketch para sua placa Arduino usando o IDE do Arduino ou software compatível.*
+- Upload the sketch to your Arduino board using the Arduino IDE or compatible software.
 
 #### Acesso/Access
 
-*Após implantado, acesse a interface de monitoramento via endereço IP exibido na tela TFT.*
-Once deployed, access the monitoring interface via the IP address displayed on the TFT screen.
+- *Após implantado, acesse a interface de monitoramento via endereço IP exibido na tela TFT.*
+- Once deployed, access the monitoring interface via the IP address displayed on the TFT screen.
 
 ### Uso/Usage
 
-*Na inicialização, o sistema se conecta às redes WiFi disponíveis. A tela TFT exibe dados de criptomoedas em tempo real de forma rotativa através de três telas. Os usuários podem modificar os pares de criptomoedas exibidos através da interface web acessível pelo endereço IP exibido na tela.*
-Upon startup, the system connects to available WiFi networks. The TFT screen displays real-time cryptocurrency data in a rotating fashion across three screens. Users can modify the displayed cryptocurrency pairs via the web interface accessible through the IP address displayed on the screen.
+- *Na inicialização, o sistema se conecta às redes WiFi disponíveis. A tela TFT exibe dados de criptomoedas em tempo real de forma rotativa através de três telas. Os usuários podem modificar os pares de criptomoedas exibidos através da interface web acessível pelo endereço IP exibido na tela.*
+- Upon startup, the system connects to available WiFi networks. The TFT screen displays real-time cryptocurrency data in a rotating fashion across three screens. Users can modify the displayed cryptocurrency pairs via the web interface accessible through the IP address displayed on the screen.
 
 ### Contribuições/Contributing
 
-*Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repositório, realizar suas alterações e enviar um pull request.*
-Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
+- *Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repositório, realizar suas alterações e enviar um pull request.*
+- Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
 
-*Considere fazer uma doação para apoiar o desenvolvimento deste projeto.*
-*Consider donating to support the ongoing development of this project.* 
+- *Considere fazer uma doação para apoiar o desenvolvimento deste projeto.*
+- *Consider donating to support the ongoing development of this project.* 
 
-EVM: 0x288656d7812bfb22317b18a1e3b23d3fc904ee70
-TRC20: TT65xcZRsM8Ym4egt9PFdp5pu9AqWMUAiU 
-BTC: bc1qep3syuc4f9lkj24c42w9pgyx3krfe2v5kepr2s
+- EVM: 0x288656d7812bfb22317b18a1e3b23d3fc904ee70
+- TRC20: TT65xcZRsM8Ym4egt9PFdp5pu9AqWMUAiU 
+- BTC: bc1qep3syuc4f9lkj24c42w9pgyx3krfe2v5kepr2s
 
 ### Licença/License
 
-*Este projeto está licenciado sob a Licença MIT.*
-This project is licensed under the MIT License 
+- *Este projeto está licenciado sob a Licença MIT.*
+- This project is licensed under the MIT License 
