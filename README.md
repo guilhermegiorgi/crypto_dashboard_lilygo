@@ -8,7 +8,7 @@ This project implements a cryptocurrency monitoring system using Arduino, TFT di
 
 <img src="https://github.com/guilhermegiorgi/crypto_dashboard_lilygo/blob/main/lilygo_dashboard1.jpg?raw=true" width="450"><img src="https://github.com/guilhermegiorgi/crypto_dashboard_lilygo/blob/main/lilygo_dashboard2.jpg?raw=true" width="450">
 
-### Features
+### Características/Features
 
 - *Exibe preços em tempo real e mudanças percentuais para pares de criptomoedas selecionados.*
 - Displays real-time prices and percentage changes for selected cryptocurrency pairs.
@@ -22,7 +22,7 @@ This project implements a cryptocurrency monitoring system using Arduino, TFT di
 - *Inclui funcionalidade de tela de apresentação na inicialização para exibir informações essenciais.*
 - Includes splash screen functionality at startup to display essential information.
 
-### Components Used
+### Componentes usados/Components Used
 
 - **Placa Arduino:** ESP32 S3 ou placas compatíveis
 - **Arduino board:** ESP32 S3 or compatible boards
@@ -36,11 +36,12 @@ This project implements a cryptocurrency monitoring system using Arduino, TFT di
 - **Servidor Web:** Biblioteca ESPAsyncWebServer para manipulação da interface web
 - **Web Server:** ESPAsyncWebServer library for handling web interface
 
+
 ### Setup Instructions
 
 #### Configuração de Hardware/Hardware Setup
 
-*Conecte o display TFT e verifique a fiação correta com a placa Arduino.*
+Conecte o display TFT e verifique a fiação correta com a placa Arduino.
 Connect the TFT display and ensure proper wiring with the Arduino board.
 
 #### Dependências/Dependencies
