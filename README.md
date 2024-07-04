@@ -6,7 +6,7 @@ This project implements a cryptocurrency monitoring system using Arduino, TFT di
 
 *Este projeto implementa um sistema de monitoramento de criptomoedas usando Arduino, display TFT e conectividade WiFi. Ele obtém dados em tempo real da API Gate.io e os exibe na tela de forma amigável ao usuário. O sistema suporta atualização dinâmica de pares de criptomoedas via interface web.*
 
-<img src="https://github.com/guilhermegiorgi/crypto_dashboard_lilygo/blob/main/lilygo_dashboard1.jpg?raw=true" width="400"><img src="https://github.com/guilhermegiorgi/crypto_dashboard_lilygo/blob/main/lilygo_dashboard2.jpg?raw=true" width="400">
+<img src="https://github.com/guilhermegiorgi/crypto_dashboard_lilygo/blob/main/lilygo_dashboard1.jpg?raw=true" width="450"><img src="https://github.com/guilhermegiorgi/crypto_dashboard_lilygo/blob/main/lilygo_dashboard2.jpg?raw=true" width="450">
 
 ### Features
 
