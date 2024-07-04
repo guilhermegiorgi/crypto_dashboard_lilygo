@@ -80,8 +80,12 @@ Upon startup, the system connects to available WiFi networks. The TFT screen dis
 *Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repositório, realizar suas alterações e enviar um pull request.*
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
 
-*Considere fazer uma doação para apoiar o desenvolvimento deste projeto. EVM: 0x288656d7812bfb22317b18a1e3b23d3fc904ee70 / TRC20: TT65xcZRsM8Ym4egt9PFdp5pu9AqWMUAiU / BTC: bc1qep3syuc4f9lkj24c42w9pgyx3krfe2v5kepr2s*
-*Consider donating to support the ongoing development of this project. EVM: 0x288656d7812bfb22317b18a1e3b23d3fc904ee70 / TRC: TT65xcZRsM8Ym4egt9PFdp5pu9AqWMUAiU / BTC: bc1qep3syuc4f9lkj24c42w9pgyx3krfe2v5kepr2s*
+*Considere fazer uma doação para apoiar o desenvolvimento deste projeto.*
+*Consider donating to support the ongoing development of this project.* 
+
+EVM: 0x288656d7812bfb22317b18a1e3b23d3fc904ee70
+TRC20: TT65xcZRsM8Ym4egt9PFdp5pu9AqWMUAiU 
+BTC: bc1qep3syuc4f9lkj24c42w9pgyx3krfe2v5kepr2s
 
 ### Licença/License
 
